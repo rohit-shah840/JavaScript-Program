@@ -1,1 +1,1 @@
-# JavaScripte-Program
+# JavaScript-Program
